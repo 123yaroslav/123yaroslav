@@ -1,7 +1,7 @@
 ### Hi there, I'm Yaroslav Rogoza 👋
 
 ### About Me :
-- :computer: Data Analyst
+- :computer: Product Analyst
 - :classical_building: I'm currently studying in the Moscow State University Faculty of Economics 
 - :compass: Areas of interest: statistics, machine learning, operations research
 - 📫 How to reach me: r.yaroslav1w@gmail.com
