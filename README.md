@@ -1,11 +1,7 @@
 ### Hi there, I'm Yaroslav Rogoza 👋
 
 ### 💻 About Me
-- 🧮 **Lead Product Analyst** at [VkusVill](https://www.vkusvill.ru/) (Retail / Delivery)
 - 🎓 Studying at **ITMO University**, MSc in Artificial Intelligence
-- 📊 I build end-to-end analytics: ETL (Airflow, SQL) → A/B tests (PyMC, CausalPy) → dashboards (PowerBI, Superset) → alerting bots (aiogram)
-- 🧠 Areas of interest: **statistics, causal inference, machine learning, operations research**
-- 🧩 Mentor analysts, design metric systems, and automate analytics processes
 - 📫 How to reach me: **r.yaroslav1w@gmail.com** | [@ne_onnn](https://t.me/ne_onnn)
 
 ---
